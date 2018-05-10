@@ -1,7 +1,7 @@
 # BI_Developer_Tech_Solutions
-Solution files for BI Developer Tech Challenge
+Solution files for BI Developer Tech Challenge.
 The repo contains 1 separate file for each of the 4 questions. 
-For the SQL files the database assumed was PostgreSQL
+For the SQL files the database assumed was PostgreSQL.
 
 Q: A1 - File: A1_Sql_Active_ads.sql - Determine the number of active ads on the site per day (use generate_series).
 
